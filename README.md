@@ -100,7 +100,7 @@ Let’s make ApateShield even better together! 🚀
 
 ## **📜 License**  
 
-This project is licensed under the **MIT License**. Check out the [LICENSE](LICENSE) file for details.  
+This project is licensed under the **GNU GPU License**. Check out the [LICENSE](LICENSE) file for details.  
 
 ---
 
